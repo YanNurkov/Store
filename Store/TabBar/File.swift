@@ -3,7 +3,6 @@
 //  Store
 //
 //  Created by Ян Нурков on 03.12.2022.
-//
 
 import Foundation
 import UIKit
